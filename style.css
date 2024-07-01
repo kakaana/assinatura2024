@@ -2,16 +2,16 @@ header {
     background-image:linear-gradient(to top, #ebd246,#ebd246 );
     margin: 90;
     padding:90;
-    display: block;
+    display:block;
     justify-content: space-around;
     padding: 54px;
-    color: #ebd246;
+    color: #000000;
 }
 
 .titulo1{
     font-size:80px;
     text-align: center;
-    color: #ebd246
+    color: #000000
     font-size: italic;
 }
 
