@@ -1,2 +1,43 @@
+header {
+    background-image:linear-gradient(to top #000 #000);
+    margin: 90;
+    padding:90;
+    display: block;
+    justify-content: space-around;
+    padding: 54px;
+    color: #000;
+}
+
+.titulo{
+    font-size:80px;
+    text-align: center;
+    color: #000;
+    font-size: italic;
+}
+
+.escola{
+   margin-left: 300px;
+   margin-top: 300px;
+   margin-right:300px;
+   height:550px;
+   font-size:70px;
+   text-align:center;
+   font-tyle:italic;
+   background-image:linear-gradient(to top, #000, #000)
+}
+body{
+    background-color:#000;
+}
+
+.soja-titulo{
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-right: 200px;
+    height: 550px;
+    font-size: 63px;
+    text-align: center;
+    font-style: italic;
+    background-image: linear-gradient(to top, #000, #000);
+}
 
 
