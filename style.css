@@ -8,23 +8,24 @@ header {
     color: #ebd246;
 }
 
-.titulo{
+.titulo1{
     font-size:80px;
     text-align: center;
     color: #ebd246
     font-size: italic;
 }
 
-.escola{
+.soja-div-conteudo{
    margin-left: 300px;
    margin-top: 300px;
    margin-right:300px;
    height:550px;
    font-size:70px;
    text-align:center;
-   font-tyle:italic;
+   font-style:italic;
    background-image:linear-gradient(to top, #ebd246,#ebd246 )
 }
+
 body{
     background-color:#ebd246
 }
