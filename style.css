@@ -1,17 +1,17 @@
 header {
-    background-image:linear-gradient(to top #000 #000);
+    background-image:linear-gradient(to top, #ebd246,#ebd246 );
     margin: 90;
     padding:90;
     display: block;
     justify-content: space-around;
     padding: 54px;
-    color: #000;
+    color: #ebd246;
 }
 
 .titulo{
     font-size:80px;
     text-align: center;
-    color: #000;
+    color: #ebd246
     font-size: italic;
 }
 
@@ -23,10 +23,10 @@ header {
    font-size:70px;
    text-align:center;
    font-tyle:italic;
-   background-image:linear-gradient(to top, #000, #000)
+   background-image:linear-gradient(to top, #ebd246,#ebd246 )
 }
 body{
-    background-color:#000;
+    background-color:#ebd246
 }
 
 .soja-titulo{
@@ -37,7 +37,7 @@ body{
     font-size: 63px;
     text-align: center;
     font-style: italic;
-    background-image: linear-gradient(to top, #000, #000);
+    background-image: linear-gradient(to top, #ebd246, #ebd246);
 }
 
 .titulo-soja{
@@ -58,5 +58,5 @@ body{
     font-size: 63px;
     text-align: center;
     font-style: italic;
-    background-image: linear-gradient(to top, #000, #000);
+    background-image: linear-gradient(to top,#ebd246, #ebd246);
 }
