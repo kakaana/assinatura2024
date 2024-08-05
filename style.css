@@ -15,7 +15,7 @@ header {
     font-size: italic;
 }
 
-.soja-div-conteudo{
+.soja.div.conteudo{
    margin-left: 300px;
    margin-top: 300px;
    margin-right:300px;
@@ -30,7 +30,7 @@ header {
     background-color:#ebd24659;
 }
 
-.soja-titulo{
+.soja.titulo{
     margin-left: 200px;
     margin-top: 100px;
     margin-right: 200px;
@@ -41,7 +41,7 @@ header {
     background-image: linear-gradient(to top, #ebd24662, #ebd24688);
 }
 
-.titulo-soja{
+.titulo.soja{
     margin-left: 200px;
     margin-top: 100px;
     margin-right: 200px;
@@ -51,7 +51,7 @@ header {
     font-style: italic;
 
 }
-.titulo-soja1{
+.titulo.soja1{
     margin-left: 200px;
     margin-top: 100px;
     margin-right: 200px;
@@ -60,4 +60,9 @@ header {
     text-align: center;
     font-style: italic;
     background-image: linear-gradient(to top,#ebd24667, #ebd24670);
+}
+.foto.soja1
+
+
+
 }
